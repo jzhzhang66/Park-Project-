@@ -1,0 +1,53 @@
+{
+    "users":[
+        {
+            "id": "1",
+            "firstName": "John",
+            "lastName": "Doe",
+            "email": "john@gmail.com",
+            "age": 34,
+            "companyId": "1"
+        },
+        {
+            "id": "2",
+            "firstName": "Budy",
+            "lastName": "Bhang",
+            "email": "joodyboody@gmail.com",
+            "age": 19 ,
+            "companyId": "2"
+        },
+        {
+            "id": "3",
+            "firstName": "Assley",
+            "lastName": "Kim",
+            "email": "assley@gmail.com",
+            "age": 19,
+            "companyId": "3"
+        },
+        {
+            "id": "4",
+            "firstName": "Meggie",
+            "lastName": "Chong",
+            "email": "meggie@gmail.com",
+            "age": 20,
+            "companyId": "4"
+        }
+    ],
+    "companies": [
+        {
+            "id": "1",
+            "name": "Apple",
+            "description": "hi my name judy zhang and you are watching the backyardigans."
+        },
+        {
+            "id": "2",
+            "name": "Target",
+            "description": "hi my name meggie chong and you are watching elmo."
+        },  
+        {
+            "id": "3",
+            "name": "Trader Joe's",
+            "description": "hi my name shiney whiney and you are watching my home cafe."
+        }  
+    ]
+}
